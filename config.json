@@ -1,0 +1,22 @@
+{
+  "launch": {
+    "canary" : {
+      "token" : "CANARY_TOKEN",
+      "prefix" : "4nary."
+    },
+    "release" : {
+      "token" : "RELEASE_TOKEN",
+      "prefix" : "loli."
+    }
+  },
+  "modules": [
+    {
+      "name": "Music",
+      "path": "./modules/music/music.js"
+    },
+    {
+      "name": "NekosLife",
+      "path": "./modules/nekoslife/nekoslife.js"
+    }
+  ]
+}
