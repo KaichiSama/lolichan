@@ -1,0 +1,2 @@
+# lolichan
+bot
